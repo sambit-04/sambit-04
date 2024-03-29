@@ -1,6 +1,5 @@
 <h1 align="center">Hey There!👋</h1>
-<h1 align="center">My Name Is Sambit Mazumder And I'm A Computer Engineering Student.</h1>
-<h1 align="center">From Mumbai, India.</h1>
+<h1 align="center">My Name Is Sambit Mazumder And I'm A Computer Engineering Student, From Mumbai, India.</h1>
 
 ###
 
